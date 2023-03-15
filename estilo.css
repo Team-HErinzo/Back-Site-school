@@ -1,0 +1,10 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.cabecalho{
+  display: flex;   
+  background-color:  #A49F9F;
+
+
+}  
