@@ -13,7 +13,7 @@
 }
 .cabecalho-lista__item{
     display: inline-block;
-    margin: 0 30px;
+    margin: 0 40px;
     font-size: 40px;
 
 }
@@ -28,22 +28,22 @@
     width: 10%;
 }
 .escola{
-    background-image: linear-gradient(#000000,#000000); 
+    background-image: linear-gradient(#3b2c2c,#3b2c2c); 
     color: rgb(255, 255, 255);
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 100px 0;
+    padding: 120px 0;
     text-align: center;
-     font-size: 20px;
+     font-size: 30px;
 }
 .escola-dois{
-      background-image: linear-gradient(#452323,#302525); 
-      color: rgb(255, 255, 255);
+      background-image: linear-gradient(#452323,#452323); 
+      color: rgb(103, 41, 41);
       display: flex;
       justify-content: center;
       align-items: center;
-     padding: 20px 0;
+     padding: 40px 0;
      text-align: center;
 }
 .escola-titulo{
@@ -54,6 +54,7 @@ text-align: center;
 
 .escola-texto-tres{
     font-size: 60px;
+    height: 5px;
 }
 .estudante{
     padding: 24px 0;
