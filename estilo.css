@@ -35,7 +35,7 @@
     align-items: center;
     padding: 120px 0;
     text-align: center;
-     font-size: 30px;
+     font-size: 40px;
 }
 .escola-dois{
       background-image: linear-gradient(#452323,#452323); 
@@ -43,8 +43,17 @@
       display: flex;
       justify-content: center;
       align-items: center;
-     padding: 40px 0;
+   
      text-align: center;
+}
+.escola-texto-dois{
+
+height: 100px;
+
+}
+.escola-texto-um{
+
+height: 100px;
 }
 .escola-titulo{
 
@@ -54,10 +63,11 @@ text-align: center;
 
 .escola-texto-tres{
     font-size: 60px;
-    height: 5px;
+    height: 120px;
 }
-.estudante{
-    padding: 24px 0;
+.rodape{
+    padding: 60px 0;
+    width: 100%;
 }
 .estudante-imagem{
     width: 120px;
@@ -86,10 +96,22 @@ text-align: center;
 }
 
 .rodape{
+    
     background-color: #4a2828;
     text-align: center;
 }
 .rodape-imagem{
-    height: 60px;
+    height: 80px;
     padding: 12px 0;
+}
+
+.escola2{
+    background-image: linear-gradient(#3b2c2c,#3b2c2c); 
+    color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+     font-size: 40px;
+    padding-bottom: 320px;
 }
